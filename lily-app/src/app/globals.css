@@ -19,3 +19,9 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.bg-comic-print {
+  background-image: url("/4172-modified.jpg"); /* Update with your image path */
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Center the background */
+}
