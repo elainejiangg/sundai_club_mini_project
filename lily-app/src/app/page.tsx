@@ -97,7 +97,7 @@ export default function Home() {
         <h1
           className=" max-w-4xl  mx-auto shadow-xl shadow-black   py-8 bg-white text-5xl sm:text-6xl font-bold text-black-300 
           tracking-wider transform -rotate-1
-          [text-shadow:3px_3px_1_#54eeff,6px_6px_2_#ff63fa,8px_8px_8_#8a8a8a] rounded-xl"
+          text-shadow-custom rounded-xl"
         >
           AI COMIC CREATOR
         </h1>

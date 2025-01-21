@@ -25,3 +25,8 @@ body {
   background-size: cover; /* Adjust as needed */
   background-position: center; /* Center the background */
 }
+
+.text-shadow-custom {
+  text-shadow: 3px 3px 1px #54eeff, /* First shadow */ 6px 6px 2px #ff63fa,
+    /* Second shadow */ 8px 8px 8px #8a8a8a; /* Third shadow */
+}
