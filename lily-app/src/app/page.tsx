@@ -86,7 +86,7 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-comic-print bg-black p-4 sm:p-8">
+    <div className="min-h-screen bg-comic-print bg-black p-4 sm:p-8 mb-8">
       {/* Comic Header */}
       <motion.header
         initial={{ y: -100, opacity: 0 }}
